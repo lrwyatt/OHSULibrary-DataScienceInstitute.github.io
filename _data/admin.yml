@@ -3,24 +3,16 @@
   degree: PhD, Cell Biology
   github: nicolevasilevsky
   interests:
+    - Semantic technologies
+    - Open Science
+    - Research Data Management
+
+- name: Jackie Wirz, PhD
+  job title: Assistant Dean, School of Medicine
+  degree: PhD, Biochemistry
+  github: 
+  interests:
     - need to add
-
-- name: Lilly Winfree, PhD
-  job title: Science and Data Analyst at the Monarch Initiative
-  degree: PhD, Neuroscience 2016
-  github: lwinfree
-  interests:
-    - R
-    - Python
-    - Data visualization
-
-- name: Letisha Wyatt, PhD
-  job title: Basic Science Liaison and Research Data Management Librarian
-  degree: PhD, Neuroscience 
-  github: lrwyatt
-  interests:
-    - Data management
-    - Data visualization 
 
 - name: Robin Champieux
   job title: OHSU Scholarly communications Librarian
@@ -32,22 +24,18 @@
     - Research impact
     - Scientific communication
     - Libraries
-
-- name: Daniela Saderi
-  job title: PhD Candidate in Neuroscience
-  degree: MS, Neuroscience
-  github: dasaderi 
+    
+- name: Letisha Wyatt, PhD
+  job title: Basic Science Liaison and Research Data Management Librarian
+  degree: PhD, Neuroscience 
+  github: lrwyatt
   interests:
-    - Open Science
-    - Python
+    - Data management
+    - Data visualization 
 
-- name: Ted Laderas
-  job title: Instructor, DMICE
-  degree: PhD, Biomedical Informatics
-  github: laderast
+- name: Laura Zeigan
+  job title: Public Health Librarian
+  degree: MLIS, Library Science; MPH
+  github: 
   interests:
-    - Open Science
-    - R/Python
-    - Data Science
-    - Interactive Visualization
-  
+    - TBD
