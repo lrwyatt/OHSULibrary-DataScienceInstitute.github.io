@@ -1,11 +1,9 @@
-- name: Danielle Robinson
-  job title: Mozilla Fellow for Science 2016
-  degree: PhD, Neuroscience
-  github: daniellecrobinson
+- name: Nicole Vasilevsky
+  job title: Lead Biocurator
+  degree: PhD, Cell Biology
+  github: nicolevasilevsky
   interests:
-    - R
-    - Data visualization
-    - Open data and data policy issues
+    - need to add
 
 - name: Lilly Winfree, PhD
   job title: Science and Data Analyst at the Monarch Initiative
