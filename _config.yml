@@ -16,8 +16,8 @@ description: "The OHSU Data Science Institute will bring together researchers, l
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-headlineMain: "Welcome to the OHSU Library Data Science Institute!"
-headlineSmall: "November 6-8, 2017"
+headlineSmall: "Welcome to the OHSU Library Data Science Institute!"
+headlineMain: "November 6-8, 2017"
 avatar: "img/logos/Sapphire_Logo_V4.png"
 
 
