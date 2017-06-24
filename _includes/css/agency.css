@@ -285,7 +285,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(img/BackroundTram.jpg);
+    background-image: url(img/BackroundTram_V3.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -670,7 +670,7 @@ section h3.section-subheading {
 
 section#come-say-hi {
     background-color: #222;
-    background-image: url(img/newbackground.png);
+    background-image: url(img/BICC.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
