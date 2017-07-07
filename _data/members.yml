@@ -23,7 +23,7 @@
 
 - name: Lilly Winfree
   degree: PhD, Neuroscience
-  github: https://github.com/lwinfree
+  github: lwinfree
   interests:
      - Python
      - R
@@ -37,7 +37,7 @@
 
 - name: Kyle Banerjee
   degree: MLIS, Library and Information Science
-  github: https://github.com/banerjek
+  github: banerjek
   interests:
      - Web scraping
      - Metadata
