@@ -1,16 +1,28 @@
-﻿Study Group events are community events intended for networking and collaboration as well as learning. We value the participation of every member of the scientific community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the events and in interactions online associated with Study Group.
+### ODSI Code of Conduct
 
-To make clear what is expected, everyone taking part in Study Group events and discussions—instructors, helpers, organizers, and learners—is required to conform to the following Code of Conduct. Organizers will enforce this code throughout events, but you may also contact us privately; all communication will be treated as confidential.
+All attendees, instructors, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the workshop. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
-## Code of Conduct
+### Need Help?
 
-We are dedicated to providing a harassment-free learning experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, choice of operating system, or choice of text editor. We do not tolerate harassment of participants in any form.
+Please contact [add email] or notify one of the event organizers with any questions or issues.
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
-Participants asked to stop any harassing behaviour are expected to comply immediately.
+### The Quick Version
 
-Be kind to others. Be aware of your words, and use language that is positive and community-building. All communication should be appropriate for a professional audience including people of many different backgrounds. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you.
+The OHSU Data Science Institute (ODSI) is dedicated to providing a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of workshop participants in any form. Sexual language and imagery is not appropriate for any learning environment, including sessions, happy hour, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the institute at the discretion of the organisers.
 
-If a participant engages in behaviour that violates this code of conduct, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the event.
+### The Less Quick Version
 
-Thank you for helping make this a welcoming, friendly event for all.
+Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of sessions or other events, inappropriate physical contact, and unwelcome sexual attention.
+
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+If a participant engages in harassing behavior, the organisers may take any action they deem appropriate, including warning the offender or expulsion from the institute.
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the ODSI organizers immediately.
+
+The organizers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the institute. We value your attendance.
+
+We expect participants to follow these rules at institute venue and institute-related social events.
+
+Original source and credit: http://confcodeofconduct.com/, http://2012.jsconf.us/#/about & The Ada Initiative
+This work is licensed under a Creative Commons Attribution 3.0 Unported License
