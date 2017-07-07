@@ -20,3 +20,24 @@
   interests:
      - Information Retrieval
      - Data visualization
+
+- name: Lilly Winfree
+  degree: PhD, Neuroscience
+  github: https://github.com/lwinfree
+  interests:
+     - Python
+     - R
+     - Data visualization
+
+- name: Patty Carney
+  degree: PhD, Health Services Research and Educational Psychology
+  github: 
+  interests:
+     - Qualitative data analytics
+
+- name: Kyle Banerjee
+  degree: MLIS, Library and Information Science
+  github: https://github.com/banerjek
+  interests:
+     - Web scraping
+     - Metadata
