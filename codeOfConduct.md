@@ -4,7 +4,7 @@ All attendees, instructors, sponsors and volunteers at our institute are require
 
 ### Need Help?
 
-Please contact [add email] or notify one of the event organizers with any questions or issues.
+Please contact *[add email]* or notify one of the event organizers with any questions or issues.
 
 ### The Quick Version
 
@@ -24,5 +24,5 @@ The organizers will be happy to help participants contact venue security or loca
 
 We expect participants to follow these rules at institute venue and institute-related social events.
 
-Original source and credit: http://confcodeofconduct.com/, http://2012.jsconf.us/#/about & The Ada Initiative
+Original source and credit: http://confcodeofconduct.com/, http://2012.jsconf.us/#/about & The Ada Initiative.
 This work is licensed under a Creative Commons Attribution 3.0 Unported License
