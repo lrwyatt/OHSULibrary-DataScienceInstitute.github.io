@@ -24,5 +24,5 @@ The organizers will be happy to help participants contact venue security or loca
 
 We expect participants to follow these rules at institute venue and institute-related social events.
 
-Original source and credit: http://confcodeofconduct.com/, http://2012.jsconf.us/#/about & The Ada Initiative
+Original source and credit: http://confcodeofconduct.com/, http://2012.jsconf.us/#/about & The Ada Initiative.
 This work is licensed under a Creative Commons Attribution 3.0 Unported License
